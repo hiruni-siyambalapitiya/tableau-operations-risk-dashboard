@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Country,Region,City,Product_Category,Product_Name,Sales,Profit,Quantity,Discount,Returns,Target_Sales
+ORD0001,1/1/2024,India,East,Pune,Office Supplies,Desk,22065,15161,15,0,0,57851
+ORD0002,1/2/2024,India,West,Ahmedabad,Electronics,Monitor,57693,3314,24,0.13,1,38087
+ORD0003,1/3/2024,India,North,Pune,Furniture,Mobile,29962,15954,6,0.16,1,42347
+ORD0004,1/4/2024,India,East,Delhi,Furniture,Mobile,31295,16340,23,0.21,1,43756
+ORD0005,1/5/2024,India,East,Chennai,Office Supplies,Monitor,16807,13508,3,0.37,0,49214
+ORD0006,1/6/2024,India,West,Kolkata,Furniture,Table,45348,13969,17,0.14,1,26335
+ORD0007,1/7/2024,India,North,Ahmedabad,Electronics,Notebook,29432,4891,5,0.14,0,38602
+ORD0008,1/8/2024,India,North,Chennai,Office Supplies,Desk,60854,-3223,28,0.3,0,58901
+ORD0009,1/9/2024,India,East,Hyderabad,Electronics,Laptop,43262,-4100,12,0.18,0,44450
+ORD0010,1/10/2024,India,South,Kolkata,Electronics,Printer,40080,15061,18,0.09,0,42196
+ORD0011,1/11/2024,India,East,Pune,Furniture,Printer,4324,5716,14,0.18,0,15626
+ORD0012,1/12/2024,India,East,Pune,Furniture,Table,38909,-1019,21,0.06,0,17424
+ORD0013,1/13/2024,India,East,Kolkata,Furniture,Notebook,22870,-1624,24,0.07,0,22857
+ORD0014,1/14/2024,India,East,Pune,Furniture,Mobile,37578,8907,11,0.2,0,54923
+ORD0015,1/15/2024,India,West,Bangalore,Furniture,Mobile,75124,10777,9,0.17,0,29982
+ORD0016,1/16/2024,India,North,Kolkata,Office Supplies,Printer,29790,19693,2,0.37,0,21425
+ORD0017,1/17/2024,India,West,Chennai,Electronics,Table,28289,10977,12,0.14,0,11980
+ORD0018,1/18/2024,India,West,Kolkata,Electronics,Desk,58129,2160,3,0.23,0,58290
+ORD0019,1/19/2024,India,West,Ahmedabad,Electronics,Mobile,18485,18329,3,0.25,0,36431
+ORD0020,1/20/2024,India,East,Pune,Electronics,Desk,47482,6124,1,0.01,0,29440
+ORD0021,1/21/2024,India,South,Bangalore,Furniture,Notebook,7748,8282,8,0.27,0,51752
+ORD0022,1/22/2024,India,North,Bangalore,Electronics,Mobile,12435,15624,22,0.07,0,27175
+ORD0023,1/23/2024,India,South,Hyderabad,Office Supplies,Mobile,6709,15321,28,0.38,0,58651
+ORD0024,1/24/2024,India,West,Chennai,Office Supplies,Chair,33355,2488,29,0.06,1,36385
+ORD0025,1/25/2024,India,West,Mumbai,Electronics,Mobile,58771,14574,8,0.17,0,48158
+ORD0026,1/26/2024,India,South,Mumbai,Electronics,Monitor,60799,-2760,11,0.03,0,33019
+ORD0027,1/27/2024,India,South,Kolkata,Office Supplies,Laptop,16116,2453,9,0.4,0,28639
+ORD0028,1/28/2024,India,South,Hyderabad,Office Supplies,Monitor,28470,2478,5,0.2,1,29994
+ORD0029,1/29/2024,India,West,Delhi,Furniture,Table,45344,14877,14,0.24,0,44375
+ORD0030,1/30/2024,India,West,Kolkata,Office Supplies,Table,45918,4394,28,0.03,1,31563
+ORD0031,1/31/2024,India,North,Hyderabad,Furniture,Desk,55224,11262,3,0.3,0,49341
+ORD0032,2/1/2024,India,North,Chennai,Furniture,Monitor,42298,12527,21,0.08,1,15776
+ORD0033,2/2/2024,India,West,Chennai,Furniture,Monitor,64629,12028,5,0.36,0,46444
+ORD0034,2/3/2024,India,South,Chennai,Furniture,Monitor,69040,-3568,5,0.08,1,13380
+ORD0035,2/4/2024,India,South,Chennai,Furniture,Notebook,31016,5568,19,0.08,0,18711
+ORD0036,2/5/2024,India,North,Chennai,Electronics,Mobile,26960,18631,27,0.01,0,18782
+ORD0037,2/6/2024,India,West,Hyderabad,Office Supplies,Laptop,36591,6178,14,0.19,0,27434
+ORD0038,2/7/2024,India,North,Hyderabad,Furniture,Desk,70641,9660,26,0.23,0,56765
+ORD0039,2/8/2024,India,North,Bangalore,Office Supplies,Monitor,39395,14195,4,0.03,0,30017
+ORD0040,2/9/2024,India,East,Ahmedabad,Office Supplies,Monitor,25700,19342,25,0.31,1,40707
+ORD0041,2/10/2024,India,East,Mumbai,Furniture,Chair,37620,-7698,13,0.18,1,49110
+ORD0042,2/11/2024,India,East,Pune,Electronics,Desk,23559,9022,10,0.21,0,27343
+ORD0043,2/12/2024,India,South,Chennai,Furniture,Monitor,64642,-7945,25,0.18,0,48827
+ORD0044,2/13/2024,India,West,Delhi,Electronics,Desk,79539,5013,18,0.16,0,51652
+ORD0045,2/14/2024,India,West,Pune,Office Supplies,Mobile,24732,717,8,0.22,0,15655
+ORD0046,2/15/2024,India,West,Hyderabad,Electronics,Chair,33354,150,8,0.06,0,54859
+ORD0047,2/16/2024,India,West,Delhi,Electronics,Desk,16843,-5875,7,0.07,0,25251
+ORD0048,2/17/2024,India,East,Delhi,Electronics,Laptop,74726,3479,8,0.34,0,10526
+ORD0049,2/18/2024,India,South,Delhi,Office Supplies,Laptop,20640,7745,14,0.38,0,13224
+ORD0050,2/19/2024,India,South,Bangalore,Office Supplies,Table,55528,8748,19,0.15,0,57837
+ORD0051,2/20/2024,India,East,Hyderabad,Electronics,Chair,41413,-1191,29,0.11,0,21536
+ORD0052,2/21/2024,India,South,Delhi,Electronics,Chair,55638,-3379,6,0.26,0,38541
+ORD0053,2/22/2024,India,East,Chennai,Furniture,Table,55736,7034,1,0.16,0,23547
+ORD0054,2/23/2024,India,West,Kolkata,Electronics,Desk,71866,5623,23,0.01,1,44531
+ORD0055,2/24/2024,India,East,Delhi,Furniture,Chair,22087,-2874,15,0.06,0,18712
+ORD0056,2/25/2024,India,West,Bangalore,Electronics,Laptop,44430,-2878,1,0.29,0,48565
+ORD0057,2/26/2024,India,West,Pune,Furniture,Laptop,27504,10030,25,0.26,0,19208
+ORD0058,2/27/2024,India,North,Hyderabad,Office Supplies,Monitor,10114,9302,17,0.01,0,15109
+ORD0059,2/28/2024,India,East,Ahmedabad,Electronics,Mobile,13975,11181,1,0.09,1,59268
+ORD0060,2/29/2024,India,North,Bangalore,Electronics,Chair,14023,14890,15,0.09,0,45201
+ORD0061,3/1/2024,India,East,Delhi,Electronics,Desk,24447,-2130,23,0.27,0,26967
+ORD0062,3/2/2024,India,East,Hyderabad,Electronics,Table,26959,-6469,2,0.01,0,39759
+ORD0063,3/3/2024,India,North,Kolkata,Furniture,Table,69203,172,14,0.04,1,30172
+ORD0064,3/4/2024,India,North,Delhi,Electronics,Desk,32703,11729,21,0.32,1,46935
+ORD0065,3/5/2024,India,East,Bangalore,Office Supplies,Notebook,12337,-327,8,0.07,0,36589
+ORD0066,3/6/2024,India,South,Mumbai,Office Supplies,Printer,49427,15333,8,0.26,0,40015
+ORD0067,3/7/2024,India,West,Chennai,Electronics,Mobile,64529,-1118,19,0.1,0,39009
+ORD0068,3/8/2024,India,North,Ahmedabad,Office Supplies,Table,34921,-6094,7,0.04,1,27773
+ORD0069,3/9/2024,India,West,Pune,Electronics,Chair,36307,-4914,19,0.1,0,51125
+ORD0070,3/10/2024,India,South,Bangalore,Electronics,Mobile,30355,5503,6,0.29,1,36143
+ORD0071,3/11/2024,India,South,Hyderabad,Office Supplies,Chair,7835,152,6,0.34,0,16154
+ORD0072,3/12/2024,India,South,Ahmedabad,Electronics,Notebook,23159,-2250,3,0.33,0,31804
+ORD0073,3/13/2024,India,North,Ahmedabad,Office Supplies,Laptop,50605,4772,7,0.16,0,51688
+ORD0074,3/14/2024,India,South,Ahmedabad,Furniture,Mobile,41088,2267,19,0.27,0,30581
+ORD0075,3/15/2024,India,North,Delhi,Electronics,Monitor,58284,17289,8,0.08,0,40087
+ORD0076,3/16/2024,India,South,Chennai,Furniture,Table,60043,-6938,10,0.12,0,59930
+ORD0077,3/17/2024,India,West,Delhi,Office Supplies,Mobile,38547,10360,20,0.36,0,42981
+ORD0078,3/18/2024,India,West,Hyderabad,Furniture,Mobile,30532,9680,15,0.01,0,13762
+ORD0079,3/19/2024,India,East,Delhi,Furniture,Mobile,37349,-1771,15,0.03,0,56167
+ORD0080,3/20/2024,India,West,Mumbai,Office Supplies,Printer,48445,16025,29,0.08,0,19768
+ORD0081,3/21/2024,India,East,Chennai,Furniture,Mobile,8713,8509,1,0.01,1,53408
+ORD0082,3/22/2024,India,West,Chennai,Furniture,Chair,59178,7147,20,0.07,1,49499
+ORD0083,3/23/2024,India,North,Hyderabad,Office Supplies,Laptop,52407,-3368,7,0.23,1,48559
+ORD0084,3/24/2024,India,West,Pune,Furniture,Notebook,73340,-1712,27,0.17,1,58590
+ORD0085,3/25/2024,India,East,Mumbai,Office Supplies,Desk,53990,-4404,4,0.36,0,18783
+ORD0086,3/26/2024,India,East,Bangalore,Furniture,Mobile,78672,3475,29,0.33,0,56389
+ORD0087,3/27/2024,India,South,Delhi,Office Supplies,Table,68545,-1832,6,0.14,0,39781
+ORD0088,3/28/2024,India,North,Kolkata,Office Supplies,Mobile,61141,1795,25,0.1,0,40811
+ORD0089,3/29/2024,India,West,Delhi,Furniture,Table,26793,-439,1,0.15,0,58787
+ORD0090,3/30/2024,India,South,Ahmedabad,Furniture,Chair,59570,258,29,0.24,0,45488
+ORD0091,3/31/2024,India,West,Delhi,Furniture,Table,40892,8616,5,0.11,0,18905
+ORD0092,4/1/2024,India,West,Bangalore,Electronics,Monitor,4015,18732,27,0.25,0,19127
+ORD0093,4/2/2024,India,South,Delhi,Electronics,Desk,64813,17745,23,0.16,0,32431
+ORD0094,4/3/2024,India,South,Mumbai,Electronics,Laptop,30712,18734,1,0.22,0,59153
+ORD0095,4/4/2024,India,South,Mumbai,Office Supplies,Table,11415,-1629,4,0.17,0,16368
+ORD0096,4/5/2024,India,South,Chennai,Furniture,Table,65292,12590,22,0.12,0,37424
+ORD0097,4/6/2024,India,South,Hyderabad,Office Supplies,Laptop,26833,18069,2,0.38,1,56824
+ORD0098,4/7/2024,India,West,Pune,Electronics,Desk,7158,6369,10,0.31,0,55004
+ORD0099,4/8/2024,India,South,Kolkata,Furniture,Mobile,65680,4910,5,0.06,0,28333
+ORD0100,4/9/2024,India,North,Ahmedabad,Office Supplies,Table,23309,-57,27,0.35,1,33116
+ORD0101,4/10/2024,India,East,Delhi,Furniture,Laptop,9970,4199,10,0.19,1,57219
+ORD0102,4/11/2024,India,South,Delhi,Office Supplies,Monitor,75474,7728,1,0.36,1,53201
+ORD0103,4/12/2024,India,South,Bangalore,Furniture,Monitor,49540,15275,22,0.32,0,25525
+ORD0104,4/13/2024,India,West,Hyderabad,Electronics,Chair,23384,-1262,6,0.17,0,33398
+ORD0105,4/14/2024,India,South,Mumbai,Electronics,Laptop,21017,7913,13,0.01,0,42857
+ORD0106,4/15/2024,India,South,Kolkata,Furniture,Chair,78880,-5528,15,0.11,0,20361
+ORD0107,4/16/2024,India,South,Chennai,Office Supplies,Monitor,11702,19236,4,0.22,0,26369
+ORD0108,4/17/2024,India,West,Mumbai,Electronics,Desk,3384,11123,13,0.25,0,13041
+ORD0109,4/18/2024,India,South,Ahmedabad,Electronics,Mobile,3404,13785,24,0.1,0,10105
+ORD0110,4/19/2024,India,East,Hyderabad,Electronics,Laptop,43943,7679,20,0.06,0,19078
+ORD0111,4/20/2024,India,West,Ahmedabad,Furniture,Notebook,50926,-6239,24,0.33,0,35003
+ORD0112,4/21/2024,India,East,Pune,Furniture,Monitor,32189,2167,15,0.39,0,16090
+ORD0113,4/22/2024,India,West,Chennai,Office Supplies,Monitor,15763,2554,29,0.21,0,48850
+ORD0114,4/23/2024,India,South,Pune,Office Supplies,Notebook,21384,9260,8,0.07,0,59786
+ORD0115,4/24/2024,India,East,Bangalore,Office Supplies,Printer,63100,6277,5,0.11,0,11925
+ORD0116,4/25/2024,India,West,Ahmedabad,Furniture,Monitor,12860,-4188,29,0.01,1,28440
+ORD0117,4/26/2024,India,North,Bangalore,Furniture,Table,53612,17888,15,0.37,0,49685
+ORD0118,4/27/2024,India,South,Delhi,Office Supplies,Desk,26574,9844,4,0.05,0,36015
+ORD0119,4/28/2024,India,West,Pune,Office Supplies,Laptop,26524,19285,12,0.23,0,43320
+ORD0120,4/29/2024,India,North,Hyderabad,Furniture,Notebook,72172,18900,13,0.11,0,35291
+ORD0121,4/30/2024,India,West,Ahmedabad,Office Supplies,Table,13916,10117,2,0.22,0,46679
+ORD0122,5/1/2024,India,North,Kolkata,Electronics,Notebook,7809,-6395,27,0.26,0,36289
+ORD0123,5/2/2024,India,South,Chennai,Furniture,Laptop,35201,-2378,19,0.33,0,13389
+ORD0124,5/3/2024,India,East,Mumbai,Office Supplies,Chair,56330,-1233,19,0.08,0,35683
+ORD0125,5/4/2024,India,North,Hyderabad,Furniture,Laptop,16456,19139,4,0,1,23629
+ORD0126,5/5/2024,India,West,Hyderabad,Electronics,Printer,59397,3613,4,0.05,0,34826
+ORD0127,5/6/2024,India,South,Bangalore,Furniture,Laptop,41765,15370,26,0.36,0,45198
+ORD0128,5/7/2024,India,North,Pune,Furniture,Laptop,37816,11901,11,0.35,1,36630
+ORD0129,5/8/2024,India,West,Ahmedabad,Furniture,Printer,48106,2589,27,0.24,1,43226
+ORD0130,5/9/2024,India,West,Ahmedabad,Furniture,Desk,56932,5918,5,0.24,0,56163
+ORD0131,5/10/2024,India,West,Delhi,Electronics,Monitor,20100,12119,20,0.27,0,42975
+ORD0132,5/11/2024,India,North,Delhi,Furniture,Laptop,60091,19446,11,0.07,0,10899
+ORD0133,5/12/2024,India,North,Chennai,Furniture,Printer,24949,17736,10,0.37,0,21653
+ORD0134,5/13/2024,India,North,Bangalore,Office Supplies,Table,73080,5046,8,0.17,0,37961
+ORD0135,5/14/2024,India,East,Hyderabad,Furniture,Chair,40744,16818,6,0.15,0,26405
+ORD0136,5/15/2024,India,North,Ahmedabad,Office Supplies,Chair,48543,-5410,6,0.21,0,18601
+ORD0137,5/16/2024,India,North,Kolkata,Electronics,Laptop,39187,9447,8,0.02,1,43662
+ORD0138,5/17/2024,India,North,Bangalore,Electronics,Desk,10239,-3676,23,0.07,1,43282
+ORD0139,5/18/2024,India,East,Chennai,Electronics,Desk,17489,2787,15,0.3,0,31288
+ORD0140,5/19/2024,India,North,Chennai,Electronics,Table,61017,1111,26,0.03,0,39545
+ORD0141,5/20/2024,India,West,Bangalore,Office Supplies,Laptop,64877,-2658,14,0.24,0,46877
+ORD0142,5/21/2024,India,North,Chennai,Furniture,Chair,46125,8389,11,0.1,0,56026
+ORD0143,5/22/2024,India,West,Bangalore,Electronics,Desk,52922,15873,12,0.16,0,25313
+ORD0144,5/23/2024,India,West,Mumbai,Furniture,Laptop,35049,659,26,0.12,0,25349
+ORD0145,5/24/2024,India,West,Bangalore,Office Supplies,Notebook,40131,6043,13,0.14,0,17179
+ORD0146,5/25/2024,India,East,Pune,Office Supplies,Desk,45944,16579,8,0.29,0,20326
+ORD0147,5/26/2024,India,East,Bangalore,Office Supplies,Printer,76963,14350,18,0.12,0,54555
+ORD0148,5/27/2024,India,East,Chennai,Electronics,Notebook,27285,837,25,0.23,0,11560
+ORD0149,5/28/2024,India,North,Ahmedabad,Furniture,Monitor,40626,-7883,1,0.19,0,23612
+ORD0150,5/29/2024,India,West,Pune,Furniture,Desk,45808,19504,15,0.27,0,27650
+ORD0151,5/30/2024,India,East,Chennai,Furniture,Chair,56871,5917,8,0.37,1,36745
+ORD0152,5/31/2024,India,East,Delhi,Office Supplies,Mobile,22198,10935,28,0.29,0,41890
+ORD0153,6/1/2024,India,North,Delhi,Electronics,Notebook,22758,6309,11,0.09,0,30022
+ORD0154,6/2/2024,India,East,Ahmedabad,Office Supplies,Monitor,18254,5234,12,0.01,0,14780
+ORD0155,6/3/2024,India,North,Ahmedabad,Office Supplies,Table,47238,-2440,12,0.1,0,28311
+ORD0156,6/4/2024,India,South,Pune,Furniture,Table,4252,12673,4,0.24,0,38380
+ORD0157,6/5/2024,India,East,Mumbai,Office Supplies,Chair,42764,-7154,16,0.02,0,54662
+ORD0158,6/6/2024,India,South,Ahmedabad,Furniture,Desk,40441,2954,4,0.2,0,12356
+ORD0159,6/7/2024,India,North,Delhi,Electronics,Laptop,56682,5703,5,0.24,0,14790
+ORD0160,6/8/2024,India,West,Bangalore,Furniture,Desk,62494,7385,24,0.13,1,36911
+ORD0161,6/9/2024,India,East,Chennai,Electronics,Chair,68215,5746,5,0.31,0,59458
+ORD0162,6/10/2024,India,North,Delhi,Furniture,Table,9949,14700,8,0.04,0,34363
+ORD0163,6/11/2024,India,West,Delhi,Office Supplies,Desk,58393,-1531,10,0.03,1,30049
+ORD0164,6/12/2024,India,West,Mumbai,Office Supplies,Table,76553,1333,17,0.29,0,20181
+ORD0165,6/13/2024,India,South,Pune,Electronics,Notebook,9941,18386,28,0.2,1,49825
+ORD0166,6/14/2024,India,North,Pune,Electronics,Monitor,28934,17299,26,0.28,0,26082
+ORD0167,6/15/2024,India,West,Hyderabad,Electronics,Laptop,26386,8608,9,0.17,0,10661
+ORD0168,6/16/2024,India,East,Mumbai,Furniture,Notebook,64886,4819,22,0.1,0,47412
+ORD0169,6/17/2024,India,East,Bangalore,Furniture,Table,78745,-3792,19,0.33,0,58479
+ORD0170,6/18/2024,India,South,Pune,Electronics,Table,56413,-1717,29,0.32,0,12920
+ORD0171,6/19/2024,India,West,Chennai,Office Supplies,Mobile,59800,-5952,14,0.28,0,35658
+ORD0172,6/20/2024,India,North,Ahmedabad,Furniture,Mobile,45318,-1767,8,0.11,0,58770
+ORD0173,6/21/2024,India,East,Mumbai,Furniture,Notebook,73173,4941,9,0.24,0,24025
+ORD0174,6/22/2024,India,West,Ahmedabad,Furniture,Printer,73390,4607,22,0.14,0,18946
+ORD0175,6/23/2024,India,West,Delhi,Electronics,Notebook,55329,1765,11,0.04,1,38706
+ORD0176,6/24/2024,India,South,Chennai,Electronics,Mobile,46088,-6172,23,0.37,1,55500
+ORD0177,6/25/2024,India,East,Chennai,Electronics,Table,42811,-6083,1,0.05,1,49004
+ORD0178,6/26/2024,India,East,Delhi,Electronics,Chair,58479,12618,14,0.38,0,26309
+ORD0179,6/27/2024,India,North,Mumbai,Electronics,Notebook,22963,-1012,5,0.18,0,56286
+ORD0180,6/28/2024,India,East,Delhi,Office Supplies,Table,58123,10410,21,0.07,0,43120
+ORD0181,6/29/2024,India,North,Ahmedabad,Office Supplies,Chair,76477,6594,26,0.22,0,40027
+ORD0182,6/30/2024,India,East,Hyderabad,Electronics,Chair,17388,12128,14,0.35,0,17005
+ORD0183,7/1/2024,India,South,Chennai,Furniture,Mobile,8569,17477,4,0.29,0,56804
+ORD0184,7/2/2024,India,East,Kolkata,Electronics,Notebook,72836,4977,22,0.32,0,59310
+ORD0185,7/3/2024,India,North,Kolkata,Office Supplies,Desk,39586,18615,23,0.26,0,10956
+ORD0186,7/4/2024,India,North,Ahmedabad,Office Supplies,Laptop,15015,-7991,25,0.28,0,44839
+ORD0187,7/5/2024,India,South,Bangalore,Furniture,Mobile,48002,8644,1,0.34,0,18595
+ORD0188,7/6/2024,India,East,Pune,Office Supplies,Mobile,9254,14422,22,0.1,0,57908
+ORD0189,7/7/2024,India,East,Delhi,Electronics,Desk,20144,1865,23,0.2,1,22803
+ORD0190,7/8/2024,India,South,Delhi,Furniture,Laptop,27214,-5781,19,0.09,0,35963
+ORD0191,7/9/2024,India,East,Bangalore,Electronics,Table,74774,-959,8,0.4,0,46221
+ORD0192,7/10/2024,India,East,Bangalore,Electronics,Printer,9090,10444,15,0.38,0,49443
+ORD0193,7/11/2024,India,North,Ahmedabad,Furniture,Notebook,14637,-2713,21,0.02,0,43723
+ORD0194,7/12/2024,India,East,Ahmedabad,Electronics,Printer,25415,-6381,15,0.28,0,49063
+ORD0195,7/13/2024,India,East,Bangalore,Office Supplies,Table,27071,512,9,0.37,0,58689
+ORD0196,7/14/2024,India,South,Chennai,Electronics,Monitor,61243,-6658,21,0.07,0,25282
+ORD0197,7/15/2024,India,South,Ahmedabad,Furniture,Mobile,44240,2568,9,0.23,0,14703
+ORD0198,7/16/2024,India,West,Hyderabad,Furniture,Laptop,36434,11216,10,0.37,0,16563
+ORD0199,7/17/2024,India,North,Ahmedabad,Furniture,Mobile,72724,11208,20,0.01,0,35849
+ORD0200,7/18/2024,India,East,Delhi,Electronics,Chair,78697,10378,25,0.28,1,41860
